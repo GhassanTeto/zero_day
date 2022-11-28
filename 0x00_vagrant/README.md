@@ -1,2 +1,0 @@
-Returns keyname of Operating System in Linux
-
