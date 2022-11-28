@@ -1,10 +1,2 @@
-uname #Returns keyname of Operating System in Linux
-uname -mp 
-x86_64 i386
-# m -> shows hardware name: x86_64
-# p -> prints processor architecture name: i386
-# s -> prints Operating System name.
-# r -> prints last release
-# v -> prints version
-# n -> prints node network names
-# a -> prints all available informatiion
+Returns keyname of Operating System in Linux
+
